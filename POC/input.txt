@@ -1,0 +1,6 @@
+1	Dhiviya	V	1	02-08-2021	17-04-1997	8374779535	mrs.softy@yahoo.com
+2	Arya	R	3	05-06-2018	23-04-1996	7411112943	rajamaatha@gmail.com
+3	Keerthi	D	4	04-03-2020	12-07-1998	9492847372	kikeee@gmail.com
+4	Sugan	GS	2	12-10-2019	02-06-1997	9890909764	sugan15@gmail.com
+5	Maithli	R	6	21-09-2020	15-10-1998	8768975433	maithili97@gmail.com
+6	Vikesh	P	5	30-12-2021	09-05-1999	8734251609	vikesh99@hotmail.com
